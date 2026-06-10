@@ -25,7 +25,6 @@ export function Header() {
 
   return (
     <>
-      <div className="demo-notice">课程演示 · 非官方网站</div>
       <header className="site-header">
         <Link className="brand" to="/" aria-label="返回首页">
           <span className="brand-emblem">医</span>
