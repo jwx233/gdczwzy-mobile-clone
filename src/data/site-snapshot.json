@@ -1,0 +1,310 @@
+{
+  "syncedAt": "2026-06-10T09:44:20.175Z",
+  "sourceUrl": "https://42.247.64.68/",
+  "navigation": [
+    {
+      "label": "首页",
+      "href": "/"
+    },
+    {
+      "label": "学校概况",
+      "children": [
+        {
+          "label": "学校简介"
+        },
+        {
+          "label": "学校历程"
+        },
+        {
+          "label": "现任领导"
+        },
+        {
+          "label": "校园风貌"
+        },
+        {
+          "label": "校徽校训"
+        }
+      ]
+    },
+    {
+      "label": "机构设置",
+      "children": [
+        {
+          "label": "党政办公室"
+        },
+        {
+          "label": "人事部"
+        },
+        {
+          "label": "学生工作部"
+        },
+        {
+          "label": "教务部"
+        },
+        {
+          "label": "护理学院"
+        },
+        {
+          "label": "药学院"
+        },
+        {
+          "label": "中医与康复学院"
+        },
+        {
+          "label": "医学技术学院"
+        }
+      ]
+    },
+    {
+      "label": "校园动态",
+      "children": [
+        {
+          "label": "学校新闻",
+          "href": "/list/news"
+        },
+        {
+          "label": "信息公开"
+        },
+        {
+          "label": "通知公告",
+          "href": "/list/announcement"
+        },
+        {
+          "label": "招聘信息"
+        }
+      ]
+    },
+    {
+      "label": "党团工作",
+      "children": [
+        {
+          "label": "党建工作"
+        },
+        {
+          "label": "群团工作"
+        }
+      ]
+    },
+    {
+      "label": "教学概况",
+      "children": [
+        {
+          "label": "教研概况"
+        },
+        {
+          "label": "师资队伍"
+        },
+        {
+          "label": "教学改革"
+        },
+        {
+          "label": "教学资源"
+        },
+        {
+          "label": "实习实训"
+        },
+        {
+          "label": "校企合作"
+        }
+      ]
+    },
+    {
+      "label": "科学研究"
+    },
+    {
+      "label": "招生就业",
+      "children": [
+        {
+          "label": "招生动态"
+        },
+        {
+          "label": "招生简章"
+        },
+        {
+          "label": "专业介绍"
+        },
+        {
+          "label": "新生入学须知"
+        },
+        {
+          "label": "就业信息"
+        },
+        {
+          "label": "联系我们"
+        }
+      ]
+    },
+    {
+      "label": "学习园地"
+    },
+    {
+      "label": "校园文化"
+    }
+  ],
+  "banners": [
+    {
+      "image": "synced/fb50f05f0ae0b81c.jpg",
+      "alt": "校园风貌"
+    }
+  ],
+  "news": [
+    {
+      "id": "news-0",
+      "category": "news",
+      "title": "我校党委书记李桂蓉讲授新学期“思政第一课”",
+      "date": "2026-04-10",
+      "image": "synced/835e37d164df0688.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/e52WP2TdbqSfpKY49WJeZw"
+    },
+    {
+      "id": "news-1",
+      "category": "news",
+      "title": "传承红色基因  筑牢清风防线 | 我校到潮州交通旅社——中央秘密交通线中转站展馆开展主题党日活动",
+      "date": "2026-06-08",
+      "image": "synced/cfaac21509dd708f.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/Mll6DKJOvdzAR3xHf8UJaQ"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
+      "title": "六一快乐｜童趣相伴 健康同行！潮州卫职院针灸推拿社团暖心走进多所幼儿园",
+      "date": "2026-06-02",
+      "externalUrl": "https://mp.weixin.qq.com/s/bBbQCaV6zjXic7sCoM_a7w"
+    },
+    {
+      "id": "news-3",
+      "category": "news",
+      "title": "以情暖阿嬷，以智护安康——我校走进北斗养和养老院，唱响《给阿嬷的情书》",
+      "date": "2026-06-01",
+      "externalUrl": "https://mp.weixin.qq.com/s/3r8nJzxPXnmDdg6WhJVCxQ"
+    },
+    {
+      "id": "news-4",
+      "category": "news",
+      "title": "传承五四薪火  绽放青春光彩|我校2026年“五四”表彰大会暨第四届校园十佳歌手大赛圆满举办",
+      "date": "2026-06-01",
+      "image": "synced/5bd148d50b92182a.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/Z7crs1bOrqLXN__kKy8ujA"
+    },
+    {
+      "id": "news-5",
+      "category": "news",
+      "title": "以心育人 正向领航——香港岭南大学林立博士莅临我校开展心理健康教育专题指导",
+      "date": "2026-05-28",
+      "externalUrl": "https://mp.weixin.qq.com/s/1Q0kEl0RqJ49ptZPoTI9nA"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "announcement-10501",
+      "category": "announcement",
+      "title": "关于我校广东大学生志愿服务“百千万工程”专项行动录取人员名单公示",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "announcement-1",
+      "category": "announcement",
+      "title": "2026年上半年全国大学英语四、六级考试考前提醒",
+      "date": "2026-06-10",
+      "externalUrl": "https://mp.weixin.qq.com/s/gwTFvqYT3nIulTNyDi-mdQ"
+    },
+    {
+      "id": "announcement-2",
+      "category": "announcement",
+      "title": "关于2026年端午节放假安排通知及温馨提示！",
+      "date": "2026-06-10",
+      "externalUrl": "https://mp.weixin.qq.com/s/X1eL6b9lzPjYdoN5Xd1qKQ"
+    },
+    {
+      "id": "announcement-3",
+      "category": "announcement",
+      "title": "关于组织开展广东潮州卫生健康职业学院 2026年第二期职业技能等级认定工作的通知",
+      "date": "2026-05-22",
+      "externalUrl": "https://mp.weixin.qq.com/s/4lYHSA1D-uwDazeY3c3pLw"
+    },
+    {
+      "id": "announcement-4",
+      "category": "announcement",
+      "title": "广东潮州卫生健康职业学院2026年春季高考录取结果出炉",
+      "date": "2026-04-27",
+      "externalUrl": "https://mp.weixin.qq.com/s/W74lhd7PC7uDD_DkQO8TFA"
+    },
+    {
+      "id": "announcement-9691",
+      "category": "announcement",
+      "title": "关于十五届“挑战杯”广东大学生创业计划竞赛河源“百千万工程”专项赛推荐项目名单的公示",
+      "date": "2026-04-08"
+    }
+  ],
+  "topics": [
+    {
+      "title": "学习贯彻党的二十届四中全会精神",
+      "image": "synced/669287c59f404614.jpg",
+      "href": "https://42.247.64.68/ztrd/xxgcddesdhesjlcqhjs.htm"
+    },
+    {
+      "title": "校园风貌",
+      "image": "synced/f24302de36320f99.jpg",
+      "href": "https://42.247.64.68/xxgk/xyfm.htm"
+    },
+    {
+      "title": "高等教育质量监测",
+      "image": "synced/94a8973cb463a3b3.png",
+      "href": "https://42.247.64.68/gjjxwjjczl.jsp?urltype=tree.TreeTempUrl&wbtreeid=3661"
+    },
+    {
+      "title": "实习工作专栏",
+      "image": "synced/6c10446ce7367ae0.jpg",
+      "href": "https://42.247.64.68/sxzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=4021"
+    },
+    {
+      "title": "设备采购",
+      "image": "synced/69d386946fe2a93e.jpg",
+      "href": "https://www.gdczwzy.edu.cn/sbw/"
+    },
+    {
+      "title": "思政育人",
+      "image": "synced/c2c067e8db52d088.jpg",
+      "href": "https://42.247.64.68/ztrd/szyw.htm"
+    }
+  ],
+  "articles": [
+    {
+      "id": "announcement-10501",
+      "category": "announcement",
+      "title": "关于我校广东大学生志愿服务“百千万工程”专项行动录取人员名单公示",
+      "date": "2026-06-10",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "根据相关工作安排，现将我校广东大学生志愿服务“百千万工程”专项行动录取人员名单予以公示。"
+        },
+        {
+          "type": "paragraph",
+          "value": "本页面为课程演示复刻，具体名单和正式信息请以学校官方网站发布内容为准。"
+        }
+      ]
+    },
+    {
+      "id": "news-10391",
+      "category": "news",
+      "title": "传承五四薪火 绽放青春光彩",
+      "date": "2026-06-01",
+      "image": "synced/5bd148d50b92182a.jpg",
+      "content": [
+        {
+          "type": "image",
+          "value": "synced/5bd148d50b92182a.jpg"
+        },
+        {
+          "type": "paragraph",
+          "value": "学校举办五四表彰大会暨校园十佳歌手大赛，以青春之声展现新时代学子风采。"
+        },
+        {
+          "type": "paragraph",
+          "value": "本内容用于移动端前端课程演示。"
+        }
+      ]
+    }
+  ]
+}
