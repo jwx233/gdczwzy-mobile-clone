@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-17T06:26:33.531Z",
+  "syncedAt": "2026-06-18T06:08:34.259Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,38 +159,39 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "师心赴山海，廿六逐光行｜潮师2026届毕业典礼圆满举行",
+      "date": "2026-06-17",
+      "image": "synced/d119b7104044ca62.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/VQFBhjlOFsRUON5wBLgMOQ"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
+      "title": "科普筑梦，健康同行丨2026年广东潮州卫生健康职业学院科普讲解大赛圆满落幕",
+      "date": "2026-06-17",
+      "externalUrl": "https://mp.weixin.qq.com/s/enIxAyHnx1KryFpxXF2_HA"
+    },
+    {
+      "id": "news-3",
+      "category": "news",
       "title": "喜报！我校马克思主义学院张涵、卢晓满老师在2026年度广东省高校思政课教师教学基本功比赛中斩获佳绩",
       "date": "2026-06-12",
       "externalUrl": "https://mp.weixin.qq.com/s/gsAeQmPzhm74vnv-9RcQhw"
     },
     {
-      "id": "news-2",
+      "id": "news-4",
       "category": "news",
       "title": "警银校联动——我校开展校园金融安全宣教活动",
       "date": "2026-06-12",
       "externalUrl": "https://mp.weixin.qq.com/s/C7Cq5C0zJbRlifpoewVaSA"
     },
     {
-      "id": "news-3",
+      "id": "news-5",
       "category": "news",
       "title": "传承红色基因  筑牢清风防线 | 我校到潮州交通旅社——中央秘密交通线中转站展馆开展主题党日活动",
       "date": "2026-06-08",
       "image": "synced/cfaac21509dd708f.jpg",
       "externalUrl": "https://mp.weixin.qq.com/s/Mll6DKJOvdzAR3xHf8UJaQ"
-    },
-    {
-      "id": "news-4",
-      "category": "news",
-      "title": "六一快乐｜童趣相伴 健康同行！潮州卫职院针灸推拿社团暖心走进多所幼儿园",
-      "date": "2026-06-02",
-      "externalUrl": "https://mp.weixin.qq.com/s/bBbQCaV6zjXic7sCoM_a7w"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "以情暖阿嬷，以智护安康——我校走进北斗养和养老院，唱响《给阿嬷的情书》",
-      "date": "2026-06-01",
-      "externalUrl": "https://mp.weixin.qq.com/s/3r8nJzxPXnmDdg6WhJVCxQ"
     }
   ],
   "announcements": [
