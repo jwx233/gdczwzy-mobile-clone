@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T06:17:28.433Z",
+  "syncedAt": "2026-06-22T06:40:28.481Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,38 +159,39 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "乡音润童心，研教共成长",
+      "date": "2026-06-22",
+      "externalUrl": "https://mp.weixin.qq.com/s/R7k2H4eB3Bbi1L7pouzLBQ"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
+      "title": "青马砺魂强本领  逐梦青春启新程丨我校第三期“青马工程”培训班结业仪式顺利举行",
+      "date": "2026-06-22",
+      "image": "synced/f5f03ff1bd228a65.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/YpxlOeKqkCnd-3CLdBgSEw"
+    },
+    {
+      "id": "news-3",
+      "category": "news",
+      "title": "这封《给阿嬷的情书》，藏着潮汕人最深的根",
+      "date": "2026-06-19",
+      "externalUrl": "https://mp.weixin.qq.com/s/LPK3x20S69LP40bUBtkPHA"
+    },
+    {
+      "id": "news-4",
+      "category": "news",
       "title": "喜报！首家+获批！我校健康照护职业技能服务再添重磅资质！",
       "date": "2026-06-18",
       "externalUrl": "https://mp.weixin.qq.com/s/xpxDD9lFscSmUkjx92BLPQ"
     },
     {
-      "id": "news-2",
+      "id": "news-5",
       "category": "news",
       "title": "师心赴山海，廿六逐光行｜潮师2026届毕业典礼圆满举行",
       "date": "2026-06-17",
       "image": "synced/d119b7104044ca62.jpg",
       "externalUrl": "https://mp.weixin.qq.com/s/VQFBhjlOFsRUON5wBLgMOQ"
-    },
-    {
-      "id": "news-3",
-      "category": "news",
-      "title": "科普筑梦，健康同行丨2026年广东潮州卫生健康职业学院科普讲解大赛圆满落幕",
-      "date": "2026-06-17",
-      "externalUrl": "https://mp.weixin.qq.com/s/enIxAyHnx1KryFpxXF2_HA"
-    },
-    {
-      "id": "news-4",
-      "category": "news",
-      "title": "喜报！我校马克思主义学院张涵、卢晓满老师在2026年度广东省高校思政课教师教学基本功比赛中斩获佳绩",
-      "date": "2026-06-12",
-      "externalUrl": "https://mp.weixin.qq.com/s/gsAeQmPzhm74vnv-9RcQhw"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "警银校联动——我校开展校园金融安全宣教活动",
-      "date": "2026-06-12",
-      "externalUrl": "https://mp.weixin.qq.com/s/C7Cq5C0zJbRlifpoewVaSA"
     }
   ],
   "announcements": [
