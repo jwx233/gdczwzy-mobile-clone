@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T06:40:28.481Z",
+  "syncedAt": "2026-06-23T05:13:43.161Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,12 +159,26 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "喜报！我校陈洁璇老师在第十一届广东高校辅导员素质能力大赛斩获佳绩",
+      "date": "2026-06-23",
+      "externalUrl": "https://mp.weixin.qq.com/s/TQrjhN-WXFl81hHKr1z_nw"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
+      "title": "阿嬷的歌，阿嬷的情书——潮州歌谣在大和书院“安家落厝”",
+      "date": "2026-06-23",
+      "externalUrl": "https://mp.weixin.qq.com/s/Zn1ie-Q0_dM8Ln9XR4mARg"
+    },
+    {
+      "id": "news-3",
+      "category": "news",
       "title": "乡音润童心，研教共成长",
       "date": "2026-06-22",
       "externalUrl": "https://mp.weixin.qq.com/s/R7k2H4eB3Bbi1L7pouzLBQ"
     },
     {
-      "id": "news-2",
+      "id": "news-4",
       "category": "news",
       "title": "青马砺魂强本领  逐梦青春启新程丨我校第三期“青马工程”培训班结业仪式顺利举行",
       "date": "2026-06-22",
@@ -172,26 +186,11 @@
       "externalUrl": "https://mp.weixin.qq.com/s/YpxlOeKqkCnd-3CLdBgSEw"
     },
     {
-      "id": "news-3",
+      "id": "news-5",
       "category": "news",
       "title": "这封《给阿嬷的情书》，藏着潮汕人最深的根",
       "date": "2026-06-19",
       "externalUrl": "https://mp.weixin.qq.com/s/LPK3x20S69LP40bUBtkPHA"
-    },
-    {
-      "id": "news-4",
-      "category": "news",
-      "title": "喜报！首家+获批！我校健康照护职业技能服务再添重磅资质！",
-      "date": "2026-06-18",
-      "externalUrl": "https://mp.weixin.qq.com/s/xpxDD9lFscSmUkjx92BLPQ"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "师心赴山海，廿六逐光行｜潮师2026届毕业典礼圆满举行",
-      "date": "2026-06-17",
-      "image": "synced/d119b7104044ca62.jpg",
-      "externalUrl": "https://mp.weixin.qq.com/s/VQFBhjlOFsRUON5wBLgMOQ"
     }
   ],
   "announcements": [
@@ -255,7 +254,7 @@
     {
       "title": "实习工作专栏",
       "image": "synced/6c10446ce7367ae0.jpg",
-      "href": "https://42.247.64.68/jgsz1/jwb_zsgzbgs_/nsxgzjczl2026.htm"
+      "href": "https://42.247.64.68/sxzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=7781"
     },
     {
       "title": "设备采购",
