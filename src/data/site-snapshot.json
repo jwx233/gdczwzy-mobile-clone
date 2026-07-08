@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-07T05:04:46.276Z",
+  "syncedAt": "2026-07-08T04:29:03.296Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,37 +159,38 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "产学携手双向奔赴，校企同心聚力前行",
+      "date": "2026-07-07",
+      "image": "synced/ce4dca01f7374281.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/-F01j5KuNwCYXJumY3nzSQ"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
       "title": "喜报！潮州卫职院获批广东省托育人才培训基地，产教融合再添新成果",
       "date": "2026-07-06",
       "externalUrl": "https://mp.weixin.qq.com/s/QIpynk1UQDNcp4cdzKWOvA"
     },
     {
-      "id": "news-2",
+      "id": "news-3",
       "category": "news",
       "title": "报名啦！150个养老护理技能公益培训名额等你来！",
       "date": "2026-07-04",
       "externalUrl": "https://mp.weixin.qq.com/s/lEXh5dPl55lROzzHtAgxtQ"
     },
     {
-      "id": "news-3",
+      "id": "news-4",
       "category": "news",
       "title": "喜讯！我校合唱团在广东省第十六届“百歌颂中华”歌咏活动中喜获佳绩",
       "date": "2026-07-01",
       "externalUrl": "https://mp.weixin.qq.com/s/p77N879VdYGJlSEE7H9qLQ"
     },
     {
-      "id": "news-4",
+      "id": "news-5",
       "category": "news",
       "title": "数媒专业五天潮州产业研学之旅圆满落幕",
       "date": "2026-06-30",
       "externalUrl": "https://mp.weixin.qq.com/s/QTSnkQwmwL0rmdrCu6ffsg"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "广东潮州卫生健康职业学院2026年夏季高考报考指南",
-      "date": "2026-06-29",
-      "externalUrl": "https://mp.weixin.qq.com/s/sFNUOioulmcsygiAfB-HUQ"
     }
   ],
   "announcements": [
