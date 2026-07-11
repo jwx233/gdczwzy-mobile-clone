@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-10T05:05:12.103Z",
+  "syncedAt": "2026-07-11T04:25:04.872Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,41 +159,55 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "规范科研管理 筑牢发展根基 ——我校举办科研项目管理与经费规范使用培训会",
+      "date": "2026-07-10",
+      "externalUrl": "https://mp.weixin.qq.com/s/cjNgdikkj7aBblAEYMxi7g"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
+      "title": "四大工种认定资质落户我校，粤东大健康技能评价再扩容",
+      "date": "2026-07-08",
+      "externalUrl": "https://mp.weixin.qq.com/s/WNwZVfLHGUtHmF2qFkOqow"
+    },
+    {
+      "id": "news-3",
+      "category": "news",
+      "title": "访企拓岗 | 校领导带队赴广州开展“访企拓岗促就业” 专项行动",
+      "date": "2026-07-08",
+      "externalUrl": "https://mp.weixin.qq.com/s/lTAtNI1Qaxo53GkQjyyQag"
+    },
+    {
+      "id": "news-4",
+      "category": "news",
       "title": "产学携手双向奔赴，校企同心聚力前行",
       "date": "2026-07-07",
       "image": "synced/ce4dca01f7374281.jpg",
       "externalUrl": "https://mp.weixin.qq.com/s/-F01j5KuNwCYXJumY3nzSQ"
     },
     {
-      "id": "news-2",
+      "id": "news-5",
       "category": "news",
       "title": "喜报！潮州卫职院获批广东省托育人才培训基地，产教融合再添新成果",
       "date": "2026-07-06",
       "externalUrl": "https://mp.weixin.qq.com/s/QIpynk1UQDNcp4cdzKWOvA"
-    },
-    {
-      "id": "news-3",
-      "category": "news",
-      "title": "报名啦！150个养老护理技能公益培训名额等你来！",
-      "date": "2026-07-04",
-      "externalUrl": "https://mp.weixin.qq.com/s/lEXh5dPl55lROzzHtAgxtQ"
-    },
-    {
-      "id": "news-4",
-      "category": "news",
-      "title": "喜讯！我校合唱团在广东省第十六届“百歌颂中华”歌咏活动中喜获佳绩",
-      "date": "2026-07-01",
-      "externalUrl": "https://mp.weixin.qq.com/s/p77N879VdYGJlSEE7H9qLQ"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "数媒专业五天潮州产业研学之旅圆满落幕",
-      "date": "2026-06-30",
-      "externalUrl": "https://mp.weixin.qq.com/s/QTSnkQwmwL0rmdrCu6ffsg"
     }
   ],
   "announcements": [
+    {
+      "id": "announcement-0",
+      "category": "announcement",
+      "title": "报名啦！150个养老护理技能公益培训名额等你来！",
+      "date": "2026-07-10",
+      "externalUrl": "https://mp.weixin.qq.com/s/lEXh5dPl55lROzzHtAgxtQ"
+    },
+    {
+      "id": "announcement-1",
+      "category": "announcement",
+      "title": "2026年暑假致学生及家长的一封信",
+      "date": "2026-07-02",
+      "externalUrl": "https://mp.weixin.qq.com/s/JPsV1FQpPSVWUaUstX0h5g"
+    },
     {
       "id": "announcement-10501",
       "category": "announcement",
@@ -201,38 +215,25 @@
       "date": "2026-06-10"
     },
     {
-      "id": "announcement-1",
+      "id": "announcement-3",
       "category": "announcement",
       "title": "2026年上半年全国大学英语四、六级考试考前提醒",
       "date": "2026-06-10",
       "externalUrl": "https://mp.weixin.qq.com/s/gwTFvqYT3nIulTNyDi-mdQ"
     },
     {
-      "id": "announcement-2",
+      "id": "announcement-4",
       "category": "announcement",
       "title": "关于2026年端午节放假安排通知及温馨提示！",
       "date": "2026-06-10",
       "externalUrl": "https://mp.weixin.qq.com/s/X1eL6b9lzPjYdoN5Xd1qKQ"
     },
     {
-      "id": "announcement-3",
+      "id": "announcement-5",
       "category": "announcement",
       "title": "关于组织开展广东潮州卫生健康职业学院 2026年第二期职业技能等级认定工作的通知",
       "date": "2026-05-22",
       "externalUrl": "https://mp.weixin.qq.com/s/4lYHSA1D-uwDazeY3c3pLw"
-    },
-    {
-      "id": "announcement-4",
-      "category": "announcement",
-      "title": "广东潮州卫生健康职业学院2026年春季高考录取结果出炉",
-      "date": "2026-04-27",
-      "externalUrl": "https://mp.weixin.qq.com/s/W74lhd7PC7uDD_DkQO8TFA"
-    },
-    {
-      "id": "announcement-9691",
-      "category": "announcement",
-      "title": "关于十五届“挑战杯”广东大学生创业计划竞赛河源“百千万工程”专项赛推荐项目名单的公示",
-      "date": "2026-04-08"
     }
   ],
   "topics": [
