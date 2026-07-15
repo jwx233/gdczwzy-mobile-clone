@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-14T04:14:42.001Z",
+  "syncedAt": "2026-07-15T04:15:35.902Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,38 +159,38 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "凝心聚力启新程 笃行实干谋发展|我校召开第二届教代会暨工代会第一次会议",
+      "date": "2026-07-15",
+      "image": "synced/bd71b3d3e5cd1234.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/PVJpyjSSRIMvQkJ_GNHhdw"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
       "title": "致青年学子的一封信（应征入伍优惠政策）",
       "date": "2026-07-13",
       "externalUrl": "https://mp.weixin.qq.com/s/wZbatJVNny26AUx8oEWNlA"
     },
     {
-      "id": "news-2",
+      "id": "news-3",
       "category": "news",
       "title": "规范科研管理 筑牢发展根基 ——我校举办科研项目管理与经费规范使用培训会",
       "date": "2026-07-10",
       "externalUrl": "https://mp.weixin.qq.com/s/cjNgdikkj7aBblAEYMxi7g"
     },
     {
-      "id": "news-3",
+      "id": "news-4",
       "category": "news",
       "title": "四大工种认定资质落户我校，粤东大健康技能评价再扩容",
       "date": "2026-07-08",
       "externalUrl": "https://mp.weixin.qq.com/s/WNwZVfLHGUtHmF2qFkOqow"
     },
     {
-      "id": "news-4",
+      "id": "news-5",
       "category": "news",
       "title": "访企拓岗 | 校领导带队赴广州开展“访企拓岗促就业” 专项行动",
       "date": "2026-07-08",
       "externalUrl": "https://mp.weixin.qq.com/s/lTAtNI1Qaxo53GkQjyyQag"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "产学携手双向奔赴，校企同心聚力前行",
-      "date": "2026-07-07",
-      "image": "synced/ce4dca01f7374281.jpg",
-      "externalUrl": "https://mp.weixin.qq.com/s/-F01j5KuNwCYXJumY3nzSQ"
     }
   ],
   "announcements": [
