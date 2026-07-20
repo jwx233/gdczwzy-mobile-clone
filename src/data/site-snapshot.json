@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-19T04:32:03.860Z",
+  "syncedAt": "2026-07-20T04:49:01.056Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,57 +159,63 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "暑期“三下乡” 助力“百千万工程” ① ▏医心践使命，筑梦润潮乡",
+      "date": "2026-07-20",
+      "externalUrl": "https://mp.weixin.qq.com/s/1kztOlMqooSFHrmMR4m8Iw"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
+      "title": "医心送急救，平安护厂区I我校中医与康复学院联合爱丽斯包装有限公司开展应急救护培训",
+      "date": "2026-07-19",
+      "externalUrl": "https://mp.weixin.qq.com/s/khAf0lkPENxZGYoC2kyTAw"
+    },
+    {
+      "id": "news-3",
+      "category": "news",
       "title": "我校召开新任职中层干部集体廉政谈话会",
       "date": "2026-07-17",
       "externalUrl": "https://mp.weixin.qq.com/s/FX5t67ifIMuRFEJvPf_QAA"
     },
     {
-      "id": "news-2",
+      "id": "news-4",
       "category": "news",
       "title": "给父母养老，这些技能你会吗？——2026年潮州市首期养老护理技能培训结业，学员直呼“太实用”！",
       "date": "2026-07-16",
       "externalUrl": "https://mp.weixin.qq.com/s/D7GemdZzOOxGIOcIJ-fRCA"
     },
     {
-      "id": "news-3",
+      "id": "news-5",
       "category": "news",
       "title": "凝心聚力启新程 笃行实干谋发展|我校召开第二届教代会暨工代会第一次会议",
       "date": "2026-07-15",
       "image": "synced/bd71b3d3e5cd1234.jpg",
       "externalUrl": "https://mp.weixin.qq.com/s/PVJpyjSSRIMvQkJ_GNHhdw"
-    },
-    {
-      "id": "news-4",
-      "category": "news",
-      "title": "致青年学子的一封信（应征入伍优惠政策）",
-      "date": "2026-07-13",
-      "externalUrl": "https://mp.weixin.qq.com/s/wZbatJVNny26AUx8oEWNlA"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "规范科研管理 筑牢发展根基 ——我校举办科研项目管理与经费规范使用培训会",
-      "date": "2026-07-10",
-      "externalUrl": "https://mp.weixin.qq.com/s/cjNgdikkj7aBblAEYMxi7g"
     }
   ],
   "announcements": [
     {
-      "id": "announcement-0",
+      "id": "announcement-11631",
+      "category": "announcement",
+      "title": "关于公示2026年2024级中高职贯通培养三二分段转段考核总成绩的通知",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "announcement-1",
       "category": "announcement",
       "title": "7月15日起，2026年生源地信用助学贷款开放受理（附咨询热线）",
       "date": "2026-07-17",
       "externalUrl": "https://mp.weixin.qq.com/s/nLEDtnJAexwprLafIKAN5g"
     },
     {
-      "id": "announcement-1",
+      "id": "announcement-2",
       "category": "announcement",
       "title": "报名啦！150个养老护理技能公益培训名额等你来！",
       "date": "2026-07-10",
       "externalUrl": "https://mp.weixin.qq.com/s/lEXh5dPl55lROzzHtAgxtQ"
     },
     {
-      "id": "announcement-2",
+      "id": "announcement-3",
       "category": "announcement",
       "title": "2026年暑假致学生及家长的一封信",
       "date": "2026-07-02",
@@ -222,18 +228,11 @@
       "date": "2026-06-10"
     },
     {
-      "id": "announcement-4",
+      "id": "announcement-5",
       "category": "announcement",
       "title": "2026年上半年全国大学英语四、六级考试考前提醒",
       "date": "2026-06-10",
       "externalUrl": "https://mp.weixin.qq.com/s/gwTFvqYT3nIulTNyDi-mdQ"
-    },
-    {
-      "id": "announcement-5",
-      "category": "announcement",
-      "title": "关于2026年端午节放假安排通知及温馨提示！",
-      "date": "2026-06-10",
-      "externalUrl": "https://mp.weixin.qq.com/s/X1eL6b9lzPjYdoN5Xd1qKQ"
     }
   ],
   "topics": [
