@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-20T04:49:01.056Z",
+  "syncedAt": "2026-07-21T04:28:23.917Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,38 +159,37 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "双共同体启新程！我校当选岭南中医药及岭南智慧医药两个行业产教融合共同体副理事长单位",
+      "date": "2026-07-20",
+      "externalUrl": "https://mp.weixin.qq.com/s/3pJYJ01ctzAnAJaxKPQAgg"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
       "title": "暑期“三下乡” 助力“百千万工程” ① ▏医心践使命，筑梦润潮乡",
       "date": "2026-07-20",
       "externalUrl": "https://mp.weixin.qq.com/s/1kztOlMqooSFHrmMR4m8Iw"
     },
     {
-      "id": "news-2",
+      "id": "news-3",
       "category": "news",
       "title": "医心送急救，平安护厂区I我校中医与康复学院联合爱丽斯包装有限公司开展应急救护培训",
       "date": "2026-07-19",
       "externalUrl": "https://mp.weixin.qq.com/s/khAf0lkPENxZGYoC2kyTAw"
     },
     {
-      "id": "news-3",
+      "id": "news-4",
       "category": "news",
       "title": "我校召开新任职中层干部集体廉政谈话会",
       "date": "2026-07-17",
       "externalUrl": "https://mp.weixin.qq.com/s/FX5t67ifIMuRFEJvPf_QAA"
     },
     {
-      "id": "news-4",
+      "id": "news-5",
       "category": "news",
       "title": "给父母养老，这些技能你会吗？——2026年潮州市首期养老护理技能培训结业，学员直呼“太实用”！",
       "date": "2026-07-16",
       "externalUrl": "https://mp.weixin.qq.com/s/D7GemdZzOOxGIOcIJ-fRCA"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "凝心聚力启新程 笃行实干谋发展|我校召开第二届教代会暨工代会第一次会议",
-      "date": "2026-07-15",
-      "image": "synced/bd71b3d3e5cd1234.jpg",
-      "externalUrl": "https://mp.weixin.qq.com/s/PVJpyjSSRIMvQkJ_GNHhdw"
     }
   ],
   "announcements": [
