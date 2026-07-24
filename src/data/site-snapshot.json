@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-23T04:29:41.829Z",
+  "syncedAt": "2026-07-24T04:28:32.413Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,40 +159,47 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "暑期“三下乡”助力“百千万工程”③｜岐黄润胪岗 中医惠民生",
+      "date": "2026-07-24",
+      "externalUrl": "https://mp.weixin.qq.com/s/53z8vSB1oG5uPOjlpXtXuA"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
       "title": "暑期“三下乡” 助力“百千万工程” ② ▏急救青力量  银龄安居行",
       "date": "2026-07-22",
       "externalUrl": "https://mp.weixin.qq.com/s/XXalH85SGh2_2HkjLpkZcA"
     },
     {
-      "id": "news-2",
+      "id": "news-3",
       "category": "news",
       "title": "双共同体启新程！我校当选岭南中医药及岭南智慧医药两个行业产教融合共同体副理事长单位",
       "date": "2026-07-20",
       "externalUrl": "https://mp.weixin.qq.com/s/3pJYJ01ctzAnAJaxKPQAgg"
     },
     {
-      "id": "news-3",
+      "id": "news-4",
       "category": "news",
       "title": "暑期“三下乡” 助力“百千万工程” ① ▏医心践使命，筑梦润潮乡",
       "date": "2026-07-20",
       "externalUrl": "https://mp.weixin.qq.com/s/1kztOlMqooSFHrmMR4m8Iw"
     },
     {
-      "id": "news-4",
+      "id": "news-5",
       "category": "news",
       "title": "医心送急救，平安护厂区I我校中医与康复学院联合爱丽斯包装有限公司开展应急救护培训",
       "date": "2026-07-19",
       "externalUrl": "https://mp.weixin.qq.com/s/khAf0lkPENxZGYoC2kyTAw"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "我校召开新任职中层干部集体廉政谈话会",
-      "date": "2026-07-17",
-      "externalUrl": "https://mp.weixin.qq.com/s/FX5t67ifIMuRFEJvPf_QAA"
     }
   ],
   "announcements": [
+    {
+      "id": "announcement-0",
+      "category": "announcement",
+      "title": "@高校毕业生：就业创业，广东有这些扶持政策",
+      "date": "2026-07-24",
+      "externalUrl": "https://mp.weixin.qq.com/s/UAfeM35gFRnXSwpF6geM3w"
+    },
     {
       "id": "announcement-11631",
       "category": "announcement",
@@ -200,21 +207,21 @@
       "date": "2026-07-20"
     },
     {
-      "id": "announcement-1",
+      "id": "announcement-2",
       "category": "announcement",
       "title": "7月15日起，2026年生源地信用助学贷款开放受理（附咨询热线）",
       "date": "2026-07-17",
       "externalUrl": "https://mp.weixin.qq.com/s/nLEDtnJAexwprLafIKAN5g"
     },
     {
-      "id": "announcement-2",
+      "id": "announcement-3",
       "category": "announcement",
       "title": "报名啦！150个养老护理技能公益培训名额等你来！",
       "date": "2026-07-10",
       "externalUrl": "https://mp.weixin.qq.com/s/lEXh5dPl55lROzzHtAgxtQ"
     },
     {
-      "id": "announcement-3",
+      "id": "announcement-4",
       "category": "announcement",
       "title": "2026年暑假致学生及家长的一封信",
       "date": "2026-07-02",
@@ -225,13 +232,6 @@
       "category": "announcement",
       "title": "关于我校广东大学生志愿服务“百千万工程”专项行动录取人员名单公示",
       "date": "2026-06-10"
-    },
-    {
-      "id": "announcement-5",
-      "category": "announcement",
-      "title": "2026年上半年全国大学英语四、六级考试考前提醒",
-      "date": "2026-06-10",
-      "externalUrl": "https://mp.weixin.qq.com/s/gwTFvqYT3nIulTNyDi-mdQ"
     }
   ],
   "topics": [
