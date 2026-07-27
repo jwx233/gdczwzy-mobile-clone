@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-26T04:37:25.385Z",
+  "syncedAt": "2026-07-27T04:49:25.933Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,37 +159,37 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "暑期“三下乡” 助力“百千万工程” ④ ▏医心赴乡土，护胃守安康",
+      "date": "2026-07-27",
+      "externalUrl": "https://mp.weixin.qq.com/s/Qlt4KCS3ZPLunWfntq-8CA"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
       "title": "暑期“三下乡”助力“百千万工程”③｜岐黄润胪岗 中医惠民生",
       "date": "2026-07-24",
       "externalUrl": "https://mp.weixin.qq.com/s/53z8vSB1oG5uPOjlpXtXuA"
     },
     {
-      "id": "news-2",
+      "id": "news-3",
       "category": "news",
       "title": "暑期“三下乡” 助力“百千万工程” ② ▏急救青力量  银龄安居行",
       "date": "2026-07-22",
       "externalUrl": "https://mp.weixin.qq.com/s/XXalH85SGh2_2HkjLpkZcA"
     },
     {
-      "id": "news-3",
+      "id": "news-4",
       "category": "news",
       "title": "双共同体启新程！我校当选岭南中医药及岭南智慧医药两个行业产教融合共同体副理事长单位",
       "date": "2026-07-20",
       "externalUrl": "https://mp.weixin.qq.com/s/3pJYJ01ctzAnAJaxKPQAgg"
     },
     {
-      "id": "news-4",
+      "id": "news-5",
       "category": "news",
       "title": "暑期“三下乡” 助力“百千万工程” ① ▏医心践使命，筑梦润潮乡",
       "date": "2026-07-20",
       "externalUrl": "https://mp.weixin.qq.com/s/1kztOlMqooSFHrmMR4m8Iw"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "医心送急救，平安护厂区I我校中医与康复学院联合爱丽斯包装有限公司开展应急救护培训",
-      "date": "2026-07-19",
-      "externalUrl": "https://mp.weixin.qq.com/s/khAf0lkPENxZGYoC2kyTAw"
     }
   ],
   "announcements": [
@@ -253,7 +253,7 @@
     {
       "title": "实习工作专栏",
       "image": "synced/6c10446ce7367ae0.jpg",
-      "href": "https://42.247.64.68/sxzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=7781"
+      "href": "https://42.247.64.68/sxzl.jsp?urltype=tree.TreeTempUrl&wbtreeid=4021"
     },
     {
       "title": "设备采购",
