@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-28T04:24:28.799Z",
+  "syncedAt": "2026-07-29T04:27:21.169Z",
   "sourceUrl": "https://42.247.64.68/",
   "navigation": [
     {
@@ -159,37 +159,38 @@
     {
       "id": "news-1",
       "category": "news",
+      "title": "粤东医育结合智慧托幼产教融合实践中心第一届理事会顺利召开",
+      "date": "2026-07-29",
+      "image": "synced/450495b02f398933.jpg",
+      "externalUrl": "https://mp.weixin.qq.com/s/6Xrc6gfkMZBlzyBI2MY-UA"
+    },
+    {
+      "id": "news-2",
+      "category": "news",
+      "title": "暑期“三下乡”助力“百千万工程”⑤|一缕薪火入乡，一腔热忱助学",
+      "date": "2026-07-27",
+      "externalUrl": "https://mp.weixin.qq.com/s/rGO3BAbzW4tIU5yF06KUvg"
+    },
+    {
+      "id": "news-3",
+      "category": "news",
       "title": "暑期“三下乡” 助力“百千万工程” ④ ▏医心赴乡土，护胃守安康",
       "date": "2026-07-27",
       "externalUrl": "https://mp.weixin.qq.com/s/Qlt4KCS3ZPLunWfntq-8CA"
     },
     {
-      "id": "news-2",
+      "id": "news-4",
       "category": "news",
       "title": "暑期“三下乡”助力“百千万工程”③｜岐黄润胪岗 中医惠民生",
       "date": "2026-07-24",
       "externalUrl": "https://mp.weixin.qq.com/s/53z8vSB1oG5uPOjlpXtXuA"
     },
     {
-      "id": "news-3",
+      "id": "news-5",
       "category": "news",
       "title": "暑期“三下乡” 助力“百千万工程” ② ▏急救青力量  银龄安居行",
       "date": "2026-07-22",
       "externalUrl": "https://mp.weixin.qq.com/s/XXalH85SGh2_2HkjLpkZcA"
-    },
-    {
-      "id": "news-4",
-      "category": "news",
-      "title": "双共同体启新程！我校当选岭南中医药及岭南智慧医药两个行业产教融合共同体副理事长单位",
-      "date": "2026-07-20",
-      "externalUrl": "https://mp.weixin.qq.com/s/3pJYJ01ctzAnAJaxKPQAgg"
-    },
-    {
-      "id": "news-5",
-      "category": "news",
-      "title": "暑期“三下乡” 助力“百千万工程” ① ▏医心践使命，筑梦润潮乡",
-      "date": "2026-07-20",
-      "externalUrl": "https://mp.weixin.qq.com/s/1kztOlMqooSFHrmMR4m8Iw"
     }
   ],
   "announcements": [
